@@ -1,0 +1,294 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{59, 146}, {247, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "choose_one_kind_of_ice_cream_label",
+          "frame" : "{{225, 259}, {150, 32}}",
+          "uuid" : "82B31255-2E9A-492E-A957-EC708D792427",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "choose one kind of ice cream",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{59, 209}, {80, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "vanilla_button_touch_up_inside",
+          "frame" : "{{260, 259}, {80, 32}}",
+          "title" : "vanilla",
+          "uuid" : "0FFDA15F-A775-4184-8634-F9191192D7DB",
+          "class" : "Button",
+          "name" : "vanilla_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{157, 209}, {80, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "chocolate_button_touch_up_inside",
+          "frame" : "{{260, 259}, {80, 32}}",
+          "title" : "chocolate",
+          "uuid" : "655D39E0-25FB-4AC5-983B-0F8241E3B514",
+          "class" : "Button",
+          "name" : "chocolate_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{265, 209}, {80, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "strawberry_button_touch_up_inside",
+          "frame" : "{{260, 259}, {80, 32}}",
+          "title" : "strawberry",
+          "uuid" : "8D127F4D-2EE4-4144-B24C-8F45583CACA0",
+          "class" : "Button",
+          "name" : "strawberry_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{367, 209}, {80, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "mango_button_touch_up_inside",
+          "frame" : "{{260, 259}, {80, 32}}",
+          "title" : "mango",
+          "uuid" : "ACDFD45E-5558-4A5E-8440-DDD8A9CA83DB",
+          "class" : "Button",
+          "name" : "mango_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{59, 42}, {247, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "choose_one_kind_of_egg_waffle_label",
+          "frame" : "{{225, 259}, {150, 32}}",
+          "uuid" : "347D88C9-864F-40C6-ADBA-C797F6AB68F7",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "choose one kind of egg waffle",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{59, 91}, {80, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "original_button_touch_up_inside",
+          "frame" : "{{260, 259}, {80, 32}}",
+          "title" : "original",
+          "uuid" : "5E7CE90D-7CE0-4301-9CCC-CC9C14B5CCEA",
+          "class" : "Button",
+          "name" : "original_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{157, 91}, {80, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "matcha_button_touch_up_inside",
+          "frame" : "{{260, 259}, {80, 32}}",
+          "title" : "matcha",
+          "uuid" : "E05E6524-5ACC-49BA-8F60-916AF78A0699",
+          "class" : "Button",
+          "name" : "matcha_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{59, 265}, {247, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{225, 259}, {150, 32}}",
+          "uuid" : "B065EF79-C36B-485E-AB8C-1705DCEA38AD",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "choose one kind of topping",
+          "name" : "choose_one_kind_of_topping",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{59, 314}, {80, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "m_and_m_button_touch_up_inside",
+          "frame" : "{{260, 259}, {80, 32}}",
+          "title" : "M&M",
+          "uuid" : "B3301FAB-0528-434E-936E-389C94091E32",
+          "class" : "Button",
+          "name" : "m_and_m_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{157, 314}, {100, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "marshmallow_button_touch_up_inside",
+          "frame" : "{{260, 259}, {80, 32}}",
+          "title" : "marshmallow",
+          "uuid" : "6F28495A-522B-4B66-9C80-A647DE30A6D6",
+          "class" : "Button",
+          "name" : "marshmallow_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{59, 403}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "subtotal_label",
+          "frame" : "{{225, 259}, {150, 32}}",
+          "uuid" : "4DFAA45B-7F07-415F-A36C-1C4A3CB31207",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "subtotal:",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{59, 443}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "tax_label",
+          "frame" : "{{225, 259}, {150, 32}}",
+          "uuid" : "775D59DF-5A12-4BF4-A78D-A2520ABD2661",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "tax:",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{59, 483}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "total_price_label",
+          "frame" : "{{225, 259}, {150, 32}}",
+          "uuid" : "58F0F481-E0A0-4833-86C4-59EF66F89DC1",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "total price:",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{59, 354}, {80, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "calculate_button_touch_up_inside",
+          "frame" : "{{260, 259}, {80, 32}}",
+          "title" : "calculate",
+          "uuid" : "0D88D3FC-A2CC-45D0-9D8B-0D3FBD935A29",
+          "class" : "Button",
+          "name" : "calculate_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{275, 314}, {80, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "no_topping_button_touch_up_inside",
+          "frame" : "{{260, 259}, {80, 32}}",
+          "title" : "no topping",
+          "uuid" : "EAFFC0F7-0C3C-4D65-BCA1-D0E3707D76B9",
+          "class" : "Button",
+          "name" : "no_topping_button",
+          "font_size" : 15
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {599, 550}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
